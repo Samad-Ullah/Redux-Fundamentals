@@ -1,3 +1,36 @@
+# topics discussed in this repo
+
+ Create Redux Action Types.
+ 
+ 
+Create Redux Actions
+
+ Create Redux Reducers
+ 
+ Create Redux Store
+ 
+ Add Redux Dev Tools 
+ 
+ Connect React with Redux
+ 
+ Create React Components
+ 
+ 
+ Add Routing to project
+ 
+ 
+ useSelector to access state
+ 
+ 
+  Use Axios for Redux API Call
+
+
+useDispatch to dispatch action
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
